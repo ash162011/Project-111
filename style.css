@@ -1,0 +1,22 @@
+body {
+     background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm119batch4-adj-22-leavesframe_1.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=2f4269ef9771603a5dbb8d12ad3825f7);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+span {
+     font-size: 30px;
+}
+
+#camera, #result {
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+}
+
+label {
+     color: green;
+     padding: 10px;
+     color: 20px;
+     border-radius: 20px;
+     background: honeydew;
+}
